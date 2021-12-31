@@ -8,11 +8,11 @@
 
 💬 Ask me about Android, Web, Tech & PC stuff :D
 
-📫 Contact me: [AliKarbasi@Duck.com](mailto:alikarbasi@duck.com)
+📫 Contact me: [AliKarbasiCom@Pm.Me](mailto:alikarbasicom@protonmail.com)
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AliKarbasiCom)
   
-👉🏼 For more information, visit [AliKarbasi.ir](https://solocode.ir/alikarbasicom/?utm_source=GitHub&utm_medium=WebRedirect&utm_campaign=NewPS)
+👉🏼 For more information, visit [AliKarbasi.ir](https://alikarbasi.ir)
 
 </div>
 
