@@ -1,6 +1,6 @@
 module github.com/alikarbasicom/alikarbasicom
 
-v 2.0
+v 1.20
 
 require (
   github.com/AdguardTeam/AdGuardHome v0.107.26 // indirect
