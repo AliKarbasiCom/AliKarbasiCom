@@ -8,7 +8,7 @@
 
 💬 Ask me about Android, Web, Tech & PC stuff :D
 
-📫 Contact me: [iam@alikarbasi.dev](mailto:iam@alikarbasi.dev)
+📫 Contact me: [ali@solocode.ir](mailto:ali@solocode.ir)
 
 <a href="https://alikarbasi.dev" target="_blank" rel="noreferrer"><img src="https://alikarbasi.dev/assets/images/aka-logo.png" width="32" height="32" /></a>
 <a href="https://youtube.com/alikarbasi" target="_blank" rel="noreferrer" style="margin-left: 10px;"><img src="https://raw.githubusercontent.com/AliKarbasiCom/AliKarbasiCom/main/youtube.svg" width="32" height="32"/></a>
