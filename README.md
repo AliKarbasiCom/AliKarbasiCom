@@ -17,3 +17,5 @@
 👉🏼 For more information, visit [alikarbasi.com](https://alikarbasi.com)
 
 </div>
+
+[![An image of @alikarbasicom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alikarbasicom)](https://holopin.io/@alikarbasicom)
