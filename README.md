@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  
+# Hi there 👋🏼 I'm Ali /ˈælɪ/
 
-<!--
-**AliKarbasiCom/AliKarbasiCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😃 Welcome to my digital nook. I'm a Full Stack developer and content creator.
 
-Here are some ideas to get you started:
+💬 Ask me about Web, Tech & PC stuff :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact me: [info@alikarbasi.com](mailto:info@alikarbasi.com)
+
+<a href="https://alikarbasi.com/" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/aka-logo.png" style="margin-left: 15px; width:32px; height:32px;" /></a>
+<a href="https://alikarbasi.com/linkedin" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/github/linkedin.png" style="margin-left: 15px; width:32px; height:32px;"/></a>
+<a href="https://alikarbasi.com/devto" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/github/dev-black.png" style="margin-left: 15px; width:32px; height:32px;"/></a>
+<a href="https://alikarbasi.com/youtube" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/github/youtube.png" style="margin-left: 15px; width:32px; height:32px;"/></a>
+
+👉🏼 For more information, visit [alikarbasi.com](https://alikarbasi.com)
+
+</div>
+
+[![An image of @alikarbasicom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alikarbasicom)](https://holopin.io/@alikarbasicom)
