@@ -6,14 +6,14 @@
 
 💬 Ask me about Web, Tech & PC stuff :D
 
-📫 Contact me: [info@alikarbasi.com](mailto:info@alikarbasi.com)
+📫 Contact me: [iam@alikarbasi.com](mailto:iam@alikarbasi.com)
 
 <a href="https://alikarbasi.com/" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/aka-logo.png" style="margin-left: 15px; width:32px; height:32px;" /></a>
 <a href="https://alikarbasi.com/linkedin" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/github/linkedin.png" style="margin-left: 15px; width:32px; height:32px;"/></a>
 <a href="https://alikarbasi.com/devto" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/github/dev-black.png" style="margin-left: 15px; width:32px; height:32px;"/></a>
 <a href="https://alikarbasi.com/youtube" target="_blank" rel="noreferrer"><img src="https://alikarbasi.com/assets/images/github/youtube.png" style="margin-left: 15px; width:32px; height:32px;"/></a>
 
-👉🏼 For more information, visit [alikarbasi.com](https://alikarbasi.com)
+👉🏼 For more information, visit [alikarbasi.com/bio](https://alikarbasi.com/bio)
 
 </div>
 
