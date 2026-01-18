@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AliKarbasiCom/AliKarbasiCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Ali /ˈæli/
 
-Here are some ideas to get you started:
+😊 Welcome to my digital nook. I'm a Full Stack developer and content creator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Android, Web, Tech & PC stuff :D
+
+📬 Contact me: [info@alikarbasi.com](mailto:info@alikarbasi.com)
+
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://alikarbasi.com/blog/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://alikarbasi.com/youtube)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://alikarbasi.com/github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://alikarbasi.com/linkedin)
+
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKGR_7uZ0UQpDZMPfAZ_S8Q?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)](https://alikarbasi.com/youtube)
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCKGR_7uZ0UQpDZMPfAZ_S8Q?style=for-the-badge&logo=youtube&logoColor=white&label=Views&color=FF0000)](https://alikarbasi.com/youtube)
+
+👉 For more information, visit [alikarbasi.com](https://alikarbasi.com)
+
+</div>
