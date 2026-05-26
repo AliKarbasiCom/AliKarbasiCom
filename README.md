@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://alikarbasi.com/github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://alikarbasi.com/linkedin)
 
-![Mastodon Follow](https://img.shields.io/mastodon/follow/116642616782160838?style=for-the-badge&logo=mastodon&logoColor=white)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/116642616782160838?style=for-the-badge&logo=mastodon&logoColor=white)](https://alikarbasi.com/mastodon)
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKGR_7uZ0UQpDZMPfAZ_S8Q?style=for-the-badge&logo=youtube&logoColor=white&label=Subscribers&color=FF0000)](https://alikarbasi.com/youtube)
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UCKGR_7uZ0UQpDZMPfAZ_S8Q?style=for-the-badge&logo=youtube&logoColor=white&label=Views&color=FF0000)](https://alikarbasi.com/youtube)
