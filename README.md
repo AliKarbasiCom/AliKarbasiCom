@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AliKarbasiCom/AliKarbasiCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Ali /ˈæli/
 
-Here are some ideas to get you started:
+😊 Welcome to my digital nook. I'm a Full Stack developer and content creator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Android, Web, Tech & PC stuff :D
+
+📬 Contact me: [ali.k@node64.dev](mailto:ali.k@node64.dev)
+
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://alikarbasi.com/blog)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://alikarbasi.com/youtube)
+
+👉 For more information, visit [alikarbasi.com](https://alikarbasi.com)
+
+[![An image of @alikarbasicom's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alikarbasicom)](https://holopin.io/@alikarbasicom)
+
+</div>
